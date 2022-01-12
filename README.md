@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaredhuffer1
 - 👀 I’m interested in BlockChain Development
-- 🌱 I’m currently learning Solidity, JavaScript , JSNode
+- 🌱 I’m currently learning Solidity, JavaScript, Python, NodeJS
 - 💞️ I’m looking to collaborate on Beginner Projects 
 - 📫 How to reach me jaredhuffer1@gmail.com
 
